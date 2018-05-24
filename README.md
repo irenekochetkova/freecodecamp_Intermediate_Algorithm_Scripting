@@ -1,0 +1,3 @@
+# freecodecamp_Intermediate_Algorithm_Scripting
+
+Solutions Intermediate Algorithm Scripting from FreeCodeCamp
