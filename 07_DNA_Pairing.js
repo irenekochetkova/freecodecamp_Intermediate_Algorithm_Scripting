@@ -65,7 +65,7 @@ function pairElement(str) {
     } else if (letters[i] === "G") {
       DNApair.push([letters[i], "C"]);
     }
-    else if (letters[i] === "A") {
+      else if (letters[i] === "A") {
       DNApair.push([letters[i], "T"]);
     } else if (letters[i] === "T") {
       DNApair.push([letters[i], "A"]);
