@@ -18,14 +18,15 @@
 function uniteUnique(arr) {
   var newArray = [].concat.apply([], arguments);
   var result = newArray.reduce((accumulator, current) => {
-    const length = accumulator.length;
-    if (length === 0 || accumulator.indexOf(current) === -1) {
+    
+    if (accumulator.indexOf(current) === -1) {
        accumulator.push(current);
     }
     return accumulator;
   }, []);
 
-return result;
+  return result;
  
 }
+
 console.log(uniteUnique([1, 3, 2], [5, 2, 1, 4], [2, 1]));
