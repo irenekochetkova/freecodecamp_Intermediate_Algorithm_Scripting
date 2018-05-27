@@ -1,7 +1,7 @@
-# freecodecamp_Intermediate_Algorithm_Scripting
 
-<h2>Intermediate Algorithm Scripting from FreeCodeCamp </h2>
-<p>------------------------------------</p>
+
+<h1>Intermediate Algorithm Scripting from FreeCodeCamp </h1>
+<p>------------------------------------------------------------------------------------------</p>
 <h3>What methods were used to solve the challenges</h3>
 <ul>
   <li>Sum All Numbers in a Range: Math.max, Math.min, While Loop</li>
@@ -20,6 +20,7 @@
   <li>Convert_HTML_Entities: String.prototype.replace(), Object.keys()</li>
   <li>Spinal Tap Case: String.prototype.split(), RegExp</li>
   <li>Sum All Odd Fibonacci Numbers: For Loop, if statement</li>
+  <li>Sum All Primes: For Loop, if statement</li>
 </ul>
 
 
