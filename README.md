@@ -1,8 +1,8 @@
 # freecodecamp_Intermediate_Algorithm_Scripting
 
-<h1>Intermediate Algorithm Scripting from FreeCodeCamp </h1>
+<h2>Intermediate Algorithm Scripting from FreeCodeCamp </h2>
 <p>------------------------------------</p>
-<h3>What methods was used to solve the challenges</h3>
+<h3>What methods were used to solve the challenges</h3>
 <ul>
   <li>Sum All Numbers in a Range: Math.max, Math.min, While Loop</li>
   <li>Diff Two Arrays: Array.prototype.concat(), Array.prototype.sort(), For Loop</li>
