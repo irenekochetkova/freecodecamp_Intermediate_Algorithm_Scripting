@@ -22,7 +22,7 @@
 // *************************************************************
 
 function translatePigLatin(str) {
-  var vowels = "aouie";
+  var vowels = "aeiou";
   
   if (vowels.indexOf(str[0]) > -1 ) {
       return str + "way";
