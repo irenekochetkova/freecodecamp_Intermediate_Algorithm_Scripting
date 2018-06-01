@@ -22,6 +22,7 @@
   <li>Sum All Odd Fibonacci Numbers: For Loop, if statement</li>
   <li>Sum All Primes: For Loop, if statement</li>
   <li>Smallest Common Multiple: Array.prototype.sort(), While loop, For Loop, if statement</li>
+  <li>Drop it: For Loop, if statement</li>
 </ul>
 
 
