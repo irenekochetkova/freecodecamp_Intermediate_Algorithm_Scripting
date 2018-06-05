@@ -24,6 +24,7 @@
   <li>Smallest Common Multiple: Array.prototype.sort(), While loop, For Loop, if statement</li>
   <li>Drop it: For Loop, if statement</li>
   <li>Steamroller: Array.prototype.reduce(), Array.isArray(), Array.prototype.concat(), Recursion </li>
+  <li>Binary Agents: String.fromCharCode(), parseInt(), For loop</li>
 </ul>
 
 
