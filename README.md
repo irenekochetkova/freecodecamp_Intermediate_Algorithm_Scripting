@@ -25,6 +25,7 @@
   <li>Drop it: For Loop, if statement</li>
   <li>Steamroller: Array.prototype.reduce(), Array.isArray(), Array.prototype.concat(), Recursion </li>
   <li>Binary Agents: String.fromCharCode(), parseInt(), For loop</li>
+  <li>Everything Be True: Object.keys(), For loop, if statement</li>
 </ul>
 
 
