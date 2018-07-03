@@ -27,6 +27,7 @@
   <li>Binary Agents: String.fromCharCode(), parseInt(), For loop</li>
   <li>Everything Be True: Object.keys(), For loop, if statement</li>
   <li>Arguments Optional: curried function , if statement</li>
+  <li>Make a Person: Object.keys</li>
 </ul>
 
 
