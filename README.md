@@ -28,6 +28,7 @@
   <li>Everything Be True: Object.keys(), For loop, if statement</li>
   <li>Arguments Optional: curried function , if statement</li>
   <li>Make a Person: Object.keys</li>
+  <li>Map the Debris: Object.keys, map(), Math</li>
 </ul>
 
 
